@@ -1,8 +1,4 @@
-Hi,
-I am working in Integration domain tools like wso2 apim, wso2 ei and wso2 is.
-Good knowledge in Core java.
-Web technoligies like html5/css3, javascript,
-Databse like MYSQL, POSTGRESQL and HSQL.
+Simple Demo Repository to learn about Github Operation/choices.
 
 
 
